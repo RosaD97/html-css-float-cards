@@ -47,6 +47,8 @@ img, .box{
     width: 350px;
     text-align: left;
     margin: 0 33px 45px 33px;
+    -webkit-box-shadow: 5px 1px 6px -1px #000000; 
+    box-shadow: 5px 1px 6px -1px #000000;
 }
 
 /* Font */
