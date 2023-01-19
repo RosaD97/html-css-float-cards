@@ -2,3 +2,23 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ /* Titolo con paragrafo  */
+
+ .titolo{
+    padding: 45px 0 65px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #e53170;
+ }
+
+ .testo{
+    font-family: 'Mulish', sans-serif;
+ }
+ 
